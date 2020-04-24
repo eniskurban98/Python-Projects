@@ -1,5 +1,5 @@
 '''
-Question 3
+Question:
 Ask the user for a number between 1 and 12 and then display a times
 table for that number.
 '''
