@@ -1,4 +1,4 @@
-# A factorial program with unending loop, that asks user input permanently until user quits from program.
+# A factorial program with unending loop, that asks user input permanently until user quits from the program.
 
 while True:
     user_input = input("Enter a number:> ")
