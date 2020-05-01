@@ -11,7 +11,7 @@ while True:
         b = 1
         user_input = int(user_input)
         fibonaccinumlist = []
-        if user_input == 0:
+        if user_input == 0 or user_input < 0:
             print('Please enter a positive number')
         else:
             for i in range(user_input):
