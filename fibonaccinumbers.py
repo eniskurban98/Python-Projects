@@ -1,7 +1,7 @@
 # Fibonacci numbers
 
 while True:
-  user_input = input('How many steps do you want for create fibonacci series?:> ')
+  user_input = input('How many steps do you want for create fibonacci series? Type exit to stop:> ')
   if user_input == 'exit':
       print('You are quitting from the fibonacci numbers program...')
       break
